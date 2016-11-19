@@ -21,7 +21,7 @@ When User arrives Munich, he/she checks-in to a hotel. User decides to eat at a 
 Data Models Chart:<br>
 <img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/datamodels.jpeg"><br>
 <b>Structure of our REDIS Database:</b> <br>
-<img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/datamodels.jpeg"><br>
+<img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/Structure%20of%20Redis%20DB.png"><br>
 
 
 
