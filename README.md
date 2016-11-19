@@ -19,7 +19,12 @@ When User arrives Munich, he/she checks-in to a hotel. User decides to eat at a 
 <img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/User%20Story%204.PNG"> <br>
 <p><b>Role 3: Assisted in realizing the Data Model Concept of Key-Value Data Store.<br>
 Data Models Chart:<br>
-<img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/datamodels.jpeg><br>
+<img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/datamodels.jpeg"><br>
+<b>Structure of our REDIS Database:</b> <br>
+<img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/datamodels.jpeg"><br>
+
+
+
 
 
 
