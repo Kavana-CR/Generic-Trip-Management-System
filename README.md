@@ -32,7 +32,7 @@ Data Models Chart:<br>
 <img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/Transportation2.PNG"><br>
 <b> Data Model 6: Weather Data Model: <b/><br>
 <img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/Weather.PNG"><br>
-
+<p><b>Role 4: Performed CRUD operations.</b> <br>
 
 
 
