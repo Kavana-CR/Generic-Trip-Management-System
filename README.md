@@ -22,15 +22,15 @@ Data Models Chart:<br>
 <img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/datamodels.jpeg"><br>
 <h2>Data Models: Structure of our REDIS Database</h2> <br>
 <img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/Structure%20of%20Redis%20DB.png"><br>
-<b> Data Model 1 & 2: Events and Hotels Data Models: <b/><br>
+<b> Data Model 1 & 2: Events and Hotels Data Models: </b><br>
 <img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/Events%26HotelsDataModels.PNG"><br>
-<b> Data Model 3 & 4: Restaurants & Traffic Updates Data Models: <b/><br>
+<b> Data Model 3 & 4: Restaurants & Traffic Updates Data Models: </b><br>
 <img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/Restaurants%26TrafficUpdates.PNG"><br>
-<b> Data Model 5: Transportation Data Model: <b/><br>
+<b> Data Model 5: Transportation Data Model: </b><br>
 <img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/Transportation.PNG"><br>
 <b> Data Model 5: Transportation Data Model No.2: </b><br>
 <img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/Transportation2.PNG"><br>
-<b> Data Model 6: Weather Data Model: <b/><br>
+<b> Data Model 6: Weather Data Model: </b><br>
 <img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/Weather.PNG"><br>
 <b>Role 4:</b> Crud operations are performed based on user stories in the use case. There are 6 features implemented in Key-Value Store.<br><b><i>CRUD operations on Hotels feature was performed by me.</i></b> <br>
 <p>HOTELS: This feature shows the number of room availability at any given point of time for that particular day. Room availability is shown for Regular Rooms, Deluxe Rooms and Suites.</p>
