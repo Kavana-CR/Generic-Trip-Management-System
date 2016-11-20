@@ -17,7 +17,7 @@ When user arrives Berlin, the user checks in to the hotel and decides to eat lun
 <p><u>User Story 4: User Arrives Munich on 4th March.</u><br>
 When User arrives Munich, he/she checks-in to a hotel. User decides to eat at a restaurant in the hotel to save time travelling to a restaurant. The user then decides to visit a couple of point of interests before heading to the concert. The user experiences delays in public transport while heading back from the concert to the hotel. The user then checks-out of the hotel before noon the next day and heads to the central railway station of Munich. The user has close to 3 hours to wait for the train to go back to Frankfurt airport. The user decides to spend time in a restaurant inside the railway station.</p><br>
 <img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/User%20Story%204.PNG"> <br>
-<p><b>Role 3: Assisted in realizing the Data Model Concept of Key-Value Data Store.<br>
+<p><b>Role 3: Assisted in realizing the Data Models of Key-Value Data Store.<br>
 Data Models Chart:<br>
 <img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/datamodels.jpeg"><br>
 <b>Structure of our REDIS Database:</b> <br>
