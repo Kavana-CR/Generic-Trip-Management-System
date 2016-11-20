@@ -17,12 +17,12 @@ When user arrives Berlin, the user checks in to the hotel and decides to eat lun
 <p><u>User Story 4: User Arrives Munich on 4th March.</u><br>
 When User arrives Munich, he/she checks-in to a hotel. User decides to eat at a restaurant in the hotel to save time travelling to a restaurant. The user then decides to visit a couple of point of interests before heading to the concert. The user experiences delays in public transport while heading back from the concert to the hotel. The user then checks-out of the hotel before noon the next day and heads to the central railway station of Munich. The user has close to 3 hours to wait for the train to go back to Frankfurt airport. The user decides to spend time in a restaurant inside the railway station.</p><br>
 <img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/User%20Story%204.PNG"> <br>
-<p><b>Role 3: Assisted in realizing the Data Models of Key-Value Data Store.<br>
+<b>Role 3: Assisted in realizing the Data Models of Key-Value Data Store.</b><br>
 Data Models Chart:<br>
 <img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/datamodels.jpeg"><br>
-<h3>Structure of our REDIS Database</h3> <br>
+<h2>Data Models: Structure of our REDIS Database</h2> <br>
 <img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/Structure%20of%20Redis%20DB.png"><br>
-
+<b> Data Model 1: <b/>
 
 
 
