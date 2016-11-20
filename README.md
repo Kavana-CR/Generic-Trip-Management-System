@@ -32,11 +32,11 @@ Data Models Chart:<br>
 <img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/Transportation2.PNG"><br>
 <b> Data Model 6: Weather Data Model: <b/><br>
 <img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/Weather.PNG"><br>
-<p><b>Role 4: Performed CRUD operations.</b> <br>
-
-
-
-
+<b>Role 4: Crud operations are performed based on user stories in the use case. There are 6 features implemented in Key-Value Store. <i>CRUD operations on Hotels feature was performed by me.</i></b> <br>
+<p>HOTELS: This feature shows the number of room availability at any given point of time for that particular day. Room availability is shown for Regular Rooms, Deluxe Rooms and Suites.</p>
+<img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/RedisClient-RoomAvailibility.PNG"> <br>
+<img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/RoomAvailibility.PNG">
+<p>Read operation is done from the user side to check the availability at a particular time and update and write operations are done by the application side / server side to which these timings and availability are being synchronized from. The same format is followed for the hotels in Berlin and Munich for Today or at any given future dates. Delete operation is performed once the day finishes.</p>
 
 
 
