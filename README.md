@@ -6,7 +6,7 @@ Storyline: Two friends who live in New York, USA decide to attend concerts in Be
 <img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/Use%20Case%20Chart.png"> </p> <br>
 <b>Role 2: Assisted in coming up with user stories.</b><br>
 <p><u>User Story 1: User makes an Itinerary for travelling to Germany.</u><br>
-User makes an itinerary a month before the concert happens. The user books a round trip flight ticket from New York to Frankfurt. Books concert tickets in Berlin and Munich, books hotels/youth hostels to stay in Frankfurt, Berlin and Munich and books Train tickets to travel from Frankfurt to Berlin, Berlin to Munich and Munich to Frankfurt.</p> <br>
+User makes an itinerary a month before the concert happens. The user books a round trip flight ticket from New York to Frankfurt. Books concert tickets in Berlin and Munich, books hotels/youth hostels to stay in Frankfurt, Berlin and Munich and books Train tickets to travel from Frankfurt to Berlin, Berlin to Munich and Munich to Frankfurt.</p> 
 <p><u>User Story 2: User Arrives Frankfurt on 2nd March.</u><br>
 User lands in Frankfurt International Airport and checks-in to a hotel. The user can get information from the trip management application about public transport and routes to get to the hotel. Once the user settles in the hotel, looks for a restaurant nearby the hotel to have dinner and then the user catches a morning train to Berlin to attend the concert.</p>
 <img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/User%20Story2.PNG"> <br>
