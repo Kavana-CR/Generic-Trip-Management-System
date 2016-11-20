@@ -32,7 +32,7 @@ Data Models Chart:<br>
 <img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/Transportation2.PNG"><br>
 <b> Data Model 6: Weather Data Model: <b/><br>
 <img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/Weather.PNG"><br>
-Role 4: Crud operations are performed based on user stories in the use case. There are 6 features implemented in Key-Value Store. <b><b><b><i>CRUD operations on Hotels feature was performed by me.</i></b> <br>
+<b>Role 4:</b> Crud operations are performed based on user stories in the use case. There are 6 features implemented in Key-Value Store.<br><b><i>CRUD operations on Hotels feature was performed by me.</i></b> <br>
 <p>HOTELS: This feature shows the number of room availability at any given point of time for that particular day. Room availability is shown for Regular Rooms, Deluxe Rooms and Suites.</p>
 <img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/RedisClient-RoomAvailibility.PNG"> <br>
 <img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/RoomAvailibility.PNG"> <br>
