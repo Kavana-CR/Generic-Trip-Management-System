@@ -1,5 +1,5 @@
 <h2> Generic Trip Management System </h2>
-<p>Group size: 4 <br> <br>
+<p>Group size: 4 <br>
 The goal was to develop a data model that could be used appropriately for REDIS. Data Models were developed for ever changing volatile data such as traffic updates, public transportation which included bookings, seat reservations and delay notifications, hotel reservations, city based events. The aim was to provide information to users on the fly.</p> 
 <p><b>Role 1: Assisted in realizing the Use Case. </b> <br>
 Storyline: Two friends who live in New York, USA decide to attend concerts in Berlin and Munich, Germany. They plan a short trip of 4-days that includes two stops. An itinerary is made utilizing our services for booking-related requests (flight bookings, transport facilities, hotel and restaurant reservations). During their travel, they come across series of events that include – (availability/non-availability of restaurant tables, delays in their preferred transport, weather changes) – till they reach their destination. <br>
@@ -22,7 +22,18 @@ Data Models Chart:<br>
 <img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/datamodels.jpeg"><br>
 <h2>Data Models: Structure of our REDIS Database</h2> <br>
 <img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/Structure%20of%20Redis%20DB.png"><br>
-<b> Data Model 1: <b/>
+<b> Data Model 1 & 2: Events and Hotels Data Models: <b/><br>
+<img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/Events%26HotelsDataModels.PNG"><br>
+<b> Data Model 3 & 4: Restaurants & Traffic Updates Data Models: <b/><br>
+<img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/Restaurants%26TrafficUpdates.PNG"><br>
+<b> Data Model 5: Transportation Data Model: <b/><br>
+<img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/Transportation.PNG"><br>
+<b> Data Model 5: Transportation Data Model No.2 : <b/><br>
+<img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/Transportation2.PNG"><br>
+<b> Data Model 6: Weather Data Model: <b/><br>
+<img src="https://github.com/Kavana-CR/Generic-Trip-Management-System/blob/master/Weather.PNG"><br>
+
+
 
 
 
